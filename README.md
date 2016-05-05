@@ -24,6 +24,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Cheng-Yu Hsu|[Hop](http://hop.appfinca.com)|[GitHub](https://github.com/cyhsutw/imaji)|[@cyhsutw](https://twitter.com/cyhsutw)|| 
 |Cristian Tabuyo|[Temperature](https://itunes.apple.com/es/app/alternativa-a-un-termometro/id1098259543?mt=8)|Submitted|[@ctapple_swift](https://instagram.com/ctapple_swift)| |
 |Dean Eigenmann|[Parkly](https://www.parkly.ch)||[@parklyapp](https://twitter.com/parklyapp)||
+|Duan Wen||[Github](https://github.com/wddwycc/Freehand)|[@wddwycc](https://twitter.com/wddwycc)||
 |Eli Yazdi|[3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)|[GitHub](http://github.com/eliyazdi/3dtones)|[@eli_yazdi](https://twitter.com/eli_yazdi)| |
 |Erik Sargent|[Taxbot](https://itunes.apple.com/us/app/taxbot-automatic-mile-tracker/id461781884?mt=8)| | | |
 |Evan Dekhayser|[Contact Archiver](https://itunes.apple.com/us/app/contact-archiver/id733594022?mt=8)|[GitHub](https://github.com/edekhayser/WWDC-2016-Scholarship-App)|[@ERDekhayser](https://twitter.com/ERDekhayser)| |
@@ -49,7 +50,6 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |Sam Eckert|[Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)|[YouTube](https://www.youtube.com/watch?v=4uFP_xQWOX4)|[@Sam0711er](https://twitter.com/Sam0711er)| |
 |Sam Patzer| |[YouTube](https://www.youtube.com/watch?v=-DFINkoEZhU)|[@Wizages](https://twitter.com/wizages)| |
 |Sebastian Dobrincu|[Voya - Your personal travel assistant](https://itunes.apple.com/us/app/voya-your-personal-travel/id1082760606)|[YouTube](https://www.youtube.com/watch?v=fbTMWC0y9hs)|[@Sebyddd](https://twitter.com/sebyddd)| |
-|Shunzhe Ma||Submitted|[@ShunzheMa](https://twitter.com/ShunzheMa)| |
 |Siddhant Chaurasia|[Places@SST](https://itunes.apple.com/us/app/places-sst/id921357959?mt=8)| |[@mr_s_chaurasia](https://twitter.com/mr_s_chaurasia)| |
 |Stephen McMillan|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)| |[@Stevowevo77](https://twitter.com/stevowevo77)| |
 |Vignesh Varadarajan|[BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8)|[YouTube](https://www.youtube.com/watch?v=H429tmvM0zI)| | |
